@@ -1,0 +1,302 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Photo Camera",
+      "description": "pla pla",
+      "lang": {
+        "id": 1,
+        "name": "eng"
+      },
+      "price": 3000,
+      "discount": null,
+      "imagesUrl": [
+        "img/products/product-grey-1.jpg"
+      ],
+      "categId": 1
+    }, {
+      "id": 1,
+      "name": "Phone Camera",
+      "description": "pla pla",
+      "lang": {
+        "id": 1,
+        "name": "eng"
+      },
+      "price": 3000,
+      "discount": null,
+      "imagesUrl": [
+        "img/products/product-grey-1.jpg"
+      ],
+      "categId": 1
+    },
+    {
+      "id": 1,
+      "name": "Plone Camera",
+      "description": "pla pla",
+      "lang": {
+        "id": 1,
+        "name": "eng"
+      },
+      "price": 3000,
+      "discount": null,
+      "imagesUrl": [
+        "img/products/product-grey-1.jpg"
+      ],
+      "categId": 1
+    },
+    {
+      "id": 2,
+      "name": "Labtop",
+      "description": "pla pla",
+      "lang": {
+        "id": 1,
+        "name": "eng"
+      },
+      "price": 900,
+      "discount": null,
+      "imagesUrl": [
+        "img/products/product-grey-1.jpg"
+      ],
+      "categId": 1
+    },
+    {
+      "id": 3,
+      "name": "Mobiles",
+      "description": "pla pla",
+      "lang": {
+        "id": 1,
+        "name": "eng"
+      },
+      "price": 400,
+      "discount": 20,
+      "imagesUrl": [
+        "img/products/product-grey-1.jpg"
+      ],
+      "categId": 1
+    },
+    {
+      "id": 4,
+      "name": "c",
+      "description": "pla pla",
+      "lang": {
+        "id": 1,
+        "name": "eng"
+      },
+      "price": 700,
+      "discount": 20,
+      "imagesUrl": [
+        "img/products/product-grey-1.jpg"
+      ],
+      "categId": 1
+    },
+    {
+      "id": 5,
+      "name": "Note 8",
+      "description": "pla pla",
+      "lang": {
+        "id": 1,
+        "name": "eng"
+      },
+      "price": 500,
+      "discount": 20,
+      "imagesUrl": [
+        "img/products/product-grey-1.jpg"
+      ],
+      "categId": 1
+    },
+    {
+      "id": 6,
+      "name": "Head Phone",
+      "description": "pla pla",
+      "lang": {
+        "id": 1,
+        "name": "eng"
+      },
+      "price": 700,
+      "discount": 20,
+      "imagesUrl": [
+        "img/products/product-grey-1.jpg"
+      ],
+      "categId": 2
+    },
+    {
+      "id": 7,
+      "name": "Air Pods",
+      "description": "pla pla",
+      "lang": {
+        "id": 1,
+        "name": "eng"
+      },
+      "price": 900,
+      "discount": null,
+      "imagesUrl": [
+        "img/products/product-grey-1.jpg"
+      ],
+      "categId": 2
+    },
+    {
+      "id": 8,
+      "name": "USB",
+      "description": "pla pla",
+      "lang": {
+        "id": 1,
+        "name": "eng"
+      },
+      "price": 800,
+      "discount": 20,
+      "imagesUrl": [
+        "img/products/product-grey-1.jpg"
+      ],
+      "categId": 2
+    },
+    {
+      "id": 9,
+      "name": "Speakers",
+      "description": "pla pla",
+      "lang": {
+        "id": 1,
+        "name": "eng"
+      },
+      "price": 100,
+      "discount": 20,
+      "imagesUrl": [
+        "img/products/product-grey-1.jpg"
+      ],
+      "categId": 2
+    },
+    {
+      "id": 10,
+      "name": "Speakers",
+      "description": "pla pla",
+      "lang": {
+        "id": 1,
+        "name": "eng"
+      },
+      "price": 400,
+      "discount": 20,
+      "imagesUrl": [
+        "img/products/product-grey-1.jpg"
+      ],
+      "categId": 2
+    },
+    {
+      "id": 11,
+      "name": "Printer",
+      "description": "pla pla",
+      "lang": {
+        "id": 1,
+        "name": "eng"
+      },
+      "price": 700,
+      "discount": null,
+      "imagesUrl": [
+        "img/products/product-grey-1.jpg"
+      ],
+      "categId": 2
+    },
+    {
+      "id": 12,
+      "name": "EyeWear",
+      "description": "pla pla",
+      "lang": {
+        "id": 1,
+        "name": "eng"
+      },
+      "price": 500,
+      "discount": 20,
+      "imagesUrl": [
+        "img/products/product-grey-1.jpg"
+      ],
+      "categId": 3
+    },
+    {
+      "id": 12,
+      "name": "EiyeWear",
+      "description": "pla pla",
+      "lang": {
+        "id": 1,
+        "name": "eng"
+      },
+      "price": 500,
+      "discount": 20,
+      "imagesUrl": [
+        "img/products/product-grey-1.jpg"
+      ],
+      "categId": 3
+    },
+    {
+      "id": 13,
+      "name": "Bags",
+      "description": "pla pla",
+      "lang": {
+        "id": 1,
+        "name": "eng"
+      },
+      "price": 700,
+      "discount": 20,
+      "imagesUrl": [
+        "img/products/product-grey-1.jpg"
+      ],
+      "categId": 3
+    },
+    {
+      "id": 14,
+      "name": "Watches",
+      "description": "pla pla",
+      "lang": {
+        "id": 1,
+        "name": "eng"
+      },
+      "price": 900,
+      "discount": 20,
+      "imagesUrl": [
+        "img/products/product-grey-1.jpg"
+      ],
+      "categId": 3
+    },
+    {
+      "id": 15,
+      "name": "Dresses",
+      "description": "pla pla",
+      "lang": {
+        "id": 1,
+        "name": "eng"
+      },
+      "price": 800,
+      "discount": 20,
+      "imagesUrl": [
+        "img/products/product-grey-1.jpg"
+      ],
+      "categId": 3
+    },
+    {
+      "id": 16,
+      "name": "Jewelery",
+      "description": "pla pla",
+      "lang": {
+        "id": 1,
+        "name": "eng"
+      },
+      "price": 800,
+      "discount": 20,
+      "imagesUrl": [
+        "img/products/product-grey-1.jpg"
+      ],
+      "categId": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronic Devices"
+    },
+    {
+      "id": 2,
+      "name": "IT Accessories"
+    },
+    {
+      "id": 3,
+      "name": " Women's Fashion"
+    }
+  ]
+}
