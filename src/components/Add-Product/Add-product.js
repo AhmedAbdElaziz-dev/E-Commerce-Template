@@ -101,7 +101,7 @@ class AddProduct extends Component {
   };
   render() {
     const categoryName = this.state.categoryName;
-console.log(this.state.product)
+console.log(this.state.product.imageUrl)
     return (
       <div className=" container">
         <form className="add-product" action="" onSubmit={this.addHandler}>
@@ -129,7 +129,7 @@ console.log(this.state.product)
               <div
                 className="slider__item active"
                 style={{
-                  backgroundImage: `url("/${this.state.product.imageUrl}")`,
+                  backgroundImage: `url("http://localhost:2000/${this.state.product.imageUrl}")`,
                 }}
               ></div>
               {/* <div
